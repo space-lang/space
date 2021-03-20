@@ -1,0 +1,15 @@
+opam-version: "2.0"
+synopsis: "The compiler for the space programming language"
+version: "1.5"
+maintainer: "msr45@cam.ac.uk"
+authors: ["krissemicolon"]
+homepage: "https://github.com/space-lang/space"
+bug-reports: "https://github.com/space-lang/space/issues"
+dev-repo: "git+https://github.com/space-lang/space.git"
+build: [
+  ["dune" "build" "-p" name "-j" jobs]
+]
+depends: [
+  "dune" {>= "2.0.0"}
+  "core" {= "v0.12.4"}
+]
