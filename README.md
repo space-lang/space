@@ -6,3 +6,10 @@
     <img alt="GitHub" src="https://img.shields.io/github/license/space-lang/space?style=flat&labelColor=ffffff&color=000000">
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/space-lang/space?style=flat&labelColor=ffffff&color=000000">
 </h1>
+
+> The compiler for the space programming language
+
+### Dev-Dependencies
+- OCaml Compiler -> Compiler
+- Opam -> source-based package manager for OCaml
+- Dune -> Build System
