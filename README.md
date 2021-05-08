@@ -13,3 +13,5 @@
 - OCaml Compiler -> Compiler
 - Opam -> source-based package manager for OCaml
 - Dune -> Build System
+
+> Recommendation: function testing with REPL 

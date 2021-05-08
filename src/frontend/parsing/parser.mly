@@ -38,4 +38,5 @@
 %token  WHILE           /* while */
 %token  MAIN            /* main */
 %token  PRINT           /* print */
+%token  RETURN          /* ret */
 %token  EOF             /* -{- not a char/string -}- */

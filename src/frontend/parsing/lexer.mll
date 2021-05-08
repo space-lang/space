@@ -22,7 +22,7 @@ rule read_token = parse
   | ":="        { COLONEQ }
   | "let"       { LET }
   | "new"       { NEW }
-  | "const"     {CONST }
+  | "const"     { CONST }
   | "var"       { VAR }
   | "fun"       { FUNCTION }
   | "class"     { CLASS }
@@ -36,7 +36,8 @@ rule read_token = parse
   | "else"      { ELSE }
   | "for"       { FOR }
   | "main"      { MAIN }
-  | "print"     {PRINT } 
+  | "print"     { PRINT } 
+  | "ret"       { RETURN }
   | whitespace  { read_token lexbuf }
   | "--"        { read_single_line_comment lexbuf }
   | "-{-"       { read_multi_line_comment lexbuf } 
