@@ -10,8 +10,9 @@
 > The compiler for the space programming language
 
 ### Dev-Dependencies
-- OCaml Compiler -> Compiler
-- Opam -> source-based package manager for OCaml
-- Dune -> Build System
+- OCaml Compiler ➔ Compiler
+- Opam ➔ source-based package manager for OCaml
+- Dune ➔ Build System
+- GNU Make ➔ Build System & Command Hub
 
 > Recommendation: function testing with REPL 
