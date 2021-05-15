@@ -7,12 +7,15 @@
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/space-lang/space?style=flat&labelColor=ffffff&color=000000">
 </h1>
 
+<img alt="Gif preview" src="./space.gif">
+
 > The compiler for the space programming language
 
 ### Dev-Dependencies
+
 - OCaml Compiler ➔ Compiler
 - Opam ➔ source-based package manager for OCaml
 - Dune ➔ Build System
 - GNU Make ➔ Build System & Command Hub
 
-> Recommendation: function testing with REPL 
+> Recommendation: function testing with REPL
