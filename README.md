@@ -1,5 +1,5 @@
 <!-- p align="center">     <img src="res/logo-512x512.png" width="256"/>    </p -->
-<img align="center" alt="Gif preview" src="res/space.gif" width="256">
+<p align="center"><img align="center" alt="Gif preview" src="res/space.gif" width="512"></p>
 
 <h1 align="center">space</br>
     <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/space-lang/space?label=lines&style=flat&labelColor=ffffff&color=000000">
