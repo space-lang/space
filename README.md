@@ -1,4 +1,5 @@
-<p align="center">     <img src="res/logo-512x512.png" width="256"/>    </p>
+<!-- p align="center">     <img src="res/logo-512x512.png" width="256"/>    </p -->
+<img align="center" alt="Gif preview" src="res/space.gif" width="256">
 
 <h1 align="center">space</br>
     <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/space-lang/space?label=lines&style=flat&labelColor=ffffff&color=000000">
@@ -6,8 +7,6 @@
     <img alt="GitHub" src="https://img.shields.io/github/license/space-lang/space?style=flat&labelColor=ffffff&color=000000">
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/space-lang/space?style=flat&labelColor=ffffff&color=000000">
 </h1>
-
-<img alt="Gif preview" src="./space.gif">
 
 > The compiler for the space programming language
 
