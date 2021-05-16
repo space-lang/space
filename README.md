@@ -6,6 +6,8 @@
     <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/space-lang/space?label=size&style=flat&labelColor=ffffff&color=000000">
     <img alt="GitHub" src="https://img.shields.io/github/license/space-lang/space?style=flat&labelColor=ffffff&color=000000">
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/space-lang/space?style=flat&labelColor=ffffff&color=000000">
+    <br>
+    <img alt="Commit style" src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg?style=flat&labelColor=ffffff&color=000000">
 </h1>
 
 > The compiler for the space programming language
