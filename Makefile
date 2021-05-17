@@ -1,5 +1,17 @@
 .POSIX:
 
+# ====== Building ======
+
+space: 
+	dune build
+
+# ====== Misc ======
+
+clean:
+	rm -rf _build
+
+# ====== Docs ======
+
 docs:
 	${SHELL} scripts/get-docs.sh
 	${SHELL} scripts/update-docs.sh
@@ -11,4 +23,4 @@ upsub:
 	git commit -m "refactor: updated submodules"
 	git push
 
-.PHONY: docs, upsub
+.PHONY: docs, upsub, clean, space
