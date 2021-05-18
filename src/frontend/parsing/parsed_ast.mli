@@ -1,3 +1,7 @@
+type identifier =
+    | Variable of Var_name.t (* x *)
+    | ObjField of Var_name.t * Field_name.t (* x.f *)
+
 type expression = 
     | Integer       of location * int
     | Constructor   of location * Class_name.t * type_expression option * constructor_arg list
