@@ -1,0 +1,16 @@
+opam-version: "2.0"
+synopsis: "CLI for the compiler for the space programming language"
+version: "1.0.0"
+maintainer: "ln.studer@protonmail.ch"
+authors: ["lianstuder"]
+homepage: "https://space-lang.github.io"
+bug-reports: "https://github.com/space-lang/space/issues"
+dev-repo: "git+https://github.com/space-lang/space.git"
+build: [
+  ["zsh" "build.sh"]
+]
+depends: [
+  "dune" {>= "2.0.0"}
+  "core" {= "v0.12.4"}
+  "cmdliner"
+]
