@@ -2,8 +2,12 @@
 
 # ====== Building ======
 
-space: 
+build:        		# Compiles Compiler
 	dune build
+
+deps:			    # Handles Dependencies
+	opam update
+	opam install
 
 # ====== Misc ======
 
