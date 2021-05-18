@@ -1,6 +1,6 @@
 opam-version: "2.0"
 synopsis: "The compiler for the space programming language"
-version: "1.5"
+version: "1.0.0"
 maintainer: "krissemicolon@gmail.com"
 authors: ["krissemicolon"]
 homepage: "https://space-lang.github.io"
