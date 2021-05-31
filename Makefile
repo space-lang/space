@@ -8,6 +8,15 @@ build:        		# Compiles Compiler
 deps:			    # Handles Dependencies
 	opam update
 	opam install
+	
+# ====== Temp CLI build targets ======
+cli:
+	cd src/cli
+	./build.sh
+
+clideps:
+	cd src/cli
+	opam update
 
 # ====== Misc ======
 
