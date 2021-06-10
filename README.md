@@ -1,5 +1,21 @@
 <!-- p align="center">     <img src="res/logo-512x512.png" width="256"/>    </p -->
-<p align="center"><img align="center" alt="Gif preview" src="res/space.gif" width="512"></p>
+<pre align="center">
+                           SSSS         
+                    SSSSSS              
+                SSSSS                   
+            SSSSSS  SSSSSSSSSSSSS       
+         SSSSSS  SSSSSSSSSSSSSSSSSS     
+       SSSSSSS SSSS       SSSSSSSSS     
+      SSSSSSS SS           SSSSSSSSS    
+     SSSSSSS  S          S  SSSSSSS     
+    SSSSSSSSS           SS SSSSSSS      
+     SSSSSSSSS       SSSS SSSSSSS       
+     SSSSSSSSSSSSSSSSSS  SSSSSS         
+       SSSSSSSSSSSSS  SSSSSS            
+                   SSSSS                
+              SSSSSS                    
+         SSSS                           
+</pre>
 
 <h1 align="center">space</br>
     <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/space-lang/space?label=lines&style=flat&labelColor=ffffff&color=000000">
